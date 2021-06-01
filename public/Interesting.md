@@ -6,6 +6,7 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ## Computer Science
 ### General Coolness
 - [The Iceburg of Rabitty Rabithole ness](https://suricrasia.online/iceberg/).
+- This whole thing also turned out to be an excercise in rapid-fire soydevery
 ### Lisp
 - [Simple but refined, guaranteed to blow your mind. Bum, ba bum.](http://landoflisp.com/).
 - "`defun` is where fun is taken away from you" --- Adam, 2021
