@@ -8,5 +8,5 @@ It's like a microblog, but published in a single markdown file. Cool, right?
 - [The Iceburg of Rabitty Rabithole ness](https://suricrasia.online/iceberg/).
 ### Lisp
 - [Simple but refined, guaranteed to blow your mind. Bum, ba bum.](http://landoflisp.com/).
-- "`defun` is where fun is taken away from you --- Adam, 2021
+- "`defun` is where fun is taken away from you" --- Adam, 2021
 
