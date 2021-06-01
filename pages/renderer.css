@@ -11,31 +11,31 @@ html {
 
 body {
     overflow: scroll;
-    width: min(90vw, 1200px);
-    margin: 0 auto;
+    width: min(85vw, 1200px);
+    margin: 20px auto;
     padding-bottom: 50px;
     @apply bg-white text-black 
 }
 
 h1 {
-    @apply font-bold text-4xl mb-4 mt-5 text-gray-800 inline-block rounded
+    @apply font-bold text-4xl text-gray-800 inline-block rounded mt-4
 }
 
 h2 {
-    @apply font-bold text-2xl mb-3 text-gray-700 pb-1 pt-2
+    @apply font-bold text-2xl text-gray-700 
 }
 
 h3 {
-    @apply text-xl mb-3 mt-1 text-gray-700 pb-0.5
+    @apply text-xl text-gray-700 pb-0.5
 }
 
 
 h4 {
-    @apply text-lg mb-3 mt-1 text-gray-700 pb-0.5 
+    @apply text-lg text-gray-700 pb-0.5 
 }
 
 p {
-    @apply mb-3
+    @apply mb-4
 }
 
 li p {
@@ -43,12 +43,11 @@ li p {
 }
 
 img {
-    @apply m-5
+    @apply m-2
 }
 
 ul {
   list-style: none inside;
-  margin-bottom: 10px;
 }
 
 table {
