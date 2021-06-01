@@ -3,4 +3,9 @@ Every so often, I find something interesting enough such that I send it to one o
 
 It's like a microblog, but published in a single markdown file. Cool, right?
 
+## Computer Science
+### General Coolness
+- [The Iceburg of Rabitty Rabithole ness](https://suricrasia.online/iceberg/).
+### Lisp
+- [Simple but refined, guaranteed to blow your mind. Bum, ba bum.](http://landoflisp.com/).
 
