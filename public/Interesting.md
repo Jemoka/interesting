@@ -12,4 +12,6 @@ It's like a microblog, but published in a single markdown file. Cool, right?
 
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
+## Tests
+Here's a ![Test Image](./test.png)
 
