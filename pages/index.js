@@ -14,7 +14,18 @@ const gfm = require('remark-gfm')
 
 const renderers = {
     inlineMath: ({value}) => <TeX math={value} />,
-    math: ({value}) => <TeX block math={value} />
+    math: ({value}) => <TeX block math={value} />,
+    image: ({
+        alt,
+        src,
+        title,
+    }) => (
+        <img 
+            alt={alt} 
+            src={src} 
+            title={title} 
+            style={{ maxWidth: 375 }}  />
+    )
 }
 
 const PageRenderer = () => {
