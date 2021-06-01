@@ -17,3 +17,7 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
 
+## Places
+### Kunming
+- [Elephants in Kunming!](https://www.scmp.com/news/china/science/article/3135331/chinese-elephant-herd-hits-road-quest-through-urban-jungle)
+
