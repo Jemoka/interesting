@@ -9,6 +9,7 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 - This whole thing also turned out to be an excercise in rapid-fire soydevery
 ### Lisp
 - [Simple but refined, guaranteed to blow your mind. Bum, ba bum.](http://landoflisp.com/).
+- [Muahahahah lisp transpiles into JS](https://common-lisp.net/project/parenscript/)
 - "`defun` is where fun is taken away from you" --- Adam, 2021
 ### Vim
 - Someone really wants to start R ![Pasted image 01.06.21-11:31:29](./images/zbO3XeNe3xrKLq2tSVoPke3kzoiKpL.png)
