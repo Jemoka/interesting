@@ -24,7 +24,7 @@ const renderers = {
             alt={alt} 
             src={src} 
             title={title} 
-            style={{ maxWidth: 375 }}  />
+            style={{ maxWidth: "min(375px, 80vw)" }}  />
     )
 }
 
