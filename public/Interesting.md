@@ -10,3 +10,6 @@ It's like a microblog, but published in a single markdown file. Cool, right?
 - [Simple but refined, guaranteed to blow your mind. Bum, ba bum.](http://landoflisp.com/).
 - "`defun` is where fun is taken away from you" --- Adam, 2021
 
+## Muzak
+- [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
+
