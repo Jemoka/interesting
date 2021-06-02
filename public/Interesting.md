@@ -10,6 +10,7 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ### Lisp
 - [Simple but refined, guaranteed to blow your mind. Bum, ba bum.](http://landoflisp.com/).
 - [Muahahahah lisp transpiles into JS](https://common-lisp.net/project/parenscript/)
+- [Apparently Lisp happened because John McCarthy gave up writing a language after writing its AST](https://qr.ae/pG2AOR)
 - "`defun` is where fun is taken away from you" --- Adam, 2021
 ### Vim
 - Someone really wants to start R ![Pasted image 01.06.21-11:31:29](./images/zbO3XeNe3xrKLq2tSVoPke3kzoiKpL.png)
