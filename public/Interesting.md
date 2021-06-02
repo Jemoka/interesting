@@ -21,3 +21,7 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ### Kunming
 - [Elephants in Kunming!](https://www.scmp.com/news/china/science/article/3135331/chinese-elephant-herd-hits-road-quest-through-urban-jungle)
 
+## Oh look!
+![Pasted image 01.06.21-20:26:59](./images/zDHuAAH91RDP5JtMocvU1hCrNlPfHn.png)
+
+
