@@ -19,5 +19,5 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 
 ## Places
 ### Kunming
-- [Elephants in Kunming!](https://www.scmp.com/news/china/science/article/3135331/chinese-elephant-herd-hits-road-quest-through-urban-jungle)
+- [Elephants in Kunming!](https://www.scmp.com/news/china/science/article/3135331/chinese-elephant-herd-hits-road-quest-through-urban-jungle). *UPDATE:* [they got there](https://www.nbcnews.com/news/world/herd-wild-elephants-approaches-chinese-city-after-300-mile-journey-n1269293)
 
