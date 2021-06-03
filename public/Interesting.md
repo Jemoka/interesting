@@ -13,6 +13,8 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 - [Apparently Lisp happened because John McCarthy gave up writing a language after writing its AST](https://qr.ae/pG2AOR)
 - "`defun` is where fun is taken away from you" --- Adam, 2021
 - [Don't want to learn lisp? Bam! You get Windows!](http://www.paulgraham.com/iflisp.html) ![Pasted image 02.06.21-16:49:00](./images/WKRBYtPvQ9bnrG6xHftVg7RSplD9Un.png)
+- [Electron for lisp](https://rabbibotton.github.io/clog/clog-manual.html#x-28CLOG-3A-40CLOG-GETTING-STARTED-20MGL-PAX-3ASECTION-29) _does_ exist! ![Pasted image 02.06.21-21:09:18](./images/pxFExrG5JMihWhJZTUXU5i3Q6L4LiS.png)
+ 
 ### Vim
 - Someone really wants to start R ![Pasted image 01.06.21-11:31:29](./images/zbO3XeNe3xrKLq2tSVoPke3kzoiKpL.png)
 
