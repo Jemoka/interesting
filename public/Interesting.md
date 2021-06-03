@@ -56,6 +56,13 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ## Chemistry?
 - Other people may already know this but is LSD "safer" than Caffine???? This graph is either misleading or I have a misconception ![Pasted image 02.06.21-22:31:36](./images/uNWaPJfuhhTQXZKjl4NWd4MJbJRKq3.png) -- @Jemoka
 
+## MAFF
+
+### cool visualizations
+
+- [colorizing equations](https://betterexplained.com/articles/colorized-math-equations/), especially this one about the discrete fourier transform
+[![xn2021-06-02T23:14:55-07:00](./images/xn2021-06-02T23:14:55-07:00.png)](https://github.com/Jemoka/interesting/blob/master/public/images/xn2021-06-02T23:14:55-07:00.png?raw=true)
+
 ## General Internets
 - [Yes! Yes! Yes! You get a hotdog! You get a hotdog! Every! Body! Gets! A! Hotdog!](https://www.youtube.com/watch?v=Ziu2rrNS7S0)
 
