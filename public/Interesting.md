@@ -19,7 +19,7 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 - Someone really wants to start R ![Pasted image 01.06.21-11:31:29](./images/zbO3XeNe3xrKLq2tSVoPke3kzoiKpL.png)
 
 ### Apple
-- You realize that all the dub-dub artwork feature lots of headless people, right? ![Pasted image 02.06.21-21:33:28](./images/47c5lgDp21YBtV2G1YohKeRpSclftp.png)
+- You realize that all the dub-dub artwork feature lots of neckless/bodiless people, right? ![Pasted image 02.06.21-21:33:28](./images/47c5lgDp21YBtV2G1YohKeRpSclftp.png)
     * I could never got over this fact
     * It's been _two years_
     * Like, does [this hero image](https://developer.apple.com/wwdc21/swift-student-challenge/) not creep you out? 
