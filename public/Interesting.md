@@ -24,6 +24,8 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
     * It's been _two years_
     * Like, does [this hero image](https://developer.apple.com/wwdc21/swift-student-challenge/) not creep you out? 
 
+### Git?
+- Github got rid of access controls for non-orgs. Scandelous! ![Pasted image 02.06.21-22:01:36](./images/ggswdhdFpMGVnuOFcZP1VCb7FW5MmM.png)
 
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
