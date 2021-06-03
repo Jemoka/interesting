@@ -36,6 +36,11 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ### Git?
 - Github got rid of access controls for non-orgs. Scandelous! ![Pasted image 02.06.21-22:01:36](./images/ggswdhdFpMGVnuOFcZP1VCb7FW5MmM.png)
 
+### Pi Hole
+- Pi Hole is showing me who is pinging back home.
+![Pi Hole](./images/piHole_Ban-Ironic-Ohms.png)
+- I dislike Adobe
+
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
 
@@ -49,7 +54,4 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ## General Internets
 - [Yes! Yes! Yes! You get a hotdog! You get a hotdog! Every! Body! Gets! A! Hotdog!](https://www.youtube.com/watch?v=Ziu2rrNS7S0)
 
-## Pi Hole
-- Pi Hole is showing me who is pinging back home. 
-- ![Pi Hole](./images/piHole_Ban-Ironic-Ohms.png)
-- I dislike Adobe
+
