@@ -45,6 +45,8 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 - Why zsh is actually better: parameter expansion
 ![xn2021-06-02T23:01:50-07:00](./images/xn2021-06-02T23:01:41-07:00.png)
 
+### corporate shrilling
+- [Stack Overflow (big tech) sold out to Prosus (even bigger tech)](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)
 
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
