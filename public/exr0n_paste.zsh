@@ -3,13 +3,14 @@
 cd $(dirname ${0:A}) # https://unix.stackexchange.com/a/136565
 
 outpath="./images/xn$(date -Is).png"
+pastestr="[![xn$(date -Is)]($outpath)](https://github.com/Jemoka/interesting/blob/master/public/$(echo $outpath | cut -c3-)?raw=true)"
 
 if [[ $(uname) != 'Darwin' ]]; then
     import "png:$outpath"
-    echo "![xn$(date -Is)]($outpath)" | xsel --clipboard --input
+    echo "$pastestr" | xsel --clipboard --input
 else
     screencapture -i "$outpath"
-    echo "![xn$(date -Is)]($outpath)" | pbcopy
+    echo "$pastestr" | pbcopy
 fi
 
 alacritty --class=float,float -e nvim "$(dirname ${0:A})/Interesting.md"
