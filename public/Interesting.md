@@ -14,6 +14,7 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 
 ### Python
 - [Static duck typing (structural typing)](https://glyph.twistedmatrix.com/2020/07/new-duck.html)
+    * But [pyright](https://github.com/microsoft/pyright) > mypy
 
 ### Lisp
 - [Simple but refined, guaranteed to blow your mind. Bum, ba bum.](http://landoflisp.com/).
