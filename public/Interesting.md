@@ -41,6 +41,11 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ![Pi Hole](./images/piHole_Ban-Ironic-Ohms.png)
 - I dislike Adobe
 
+### shell scripting
+- Why zsh is actually better: parameter expansion
+![xn2021-06-02T23:01:50-07:00](./images/xn2021-06-02T23:01:41-07:00.png)
+
+
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
 
