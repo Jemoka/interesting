@@ -51,5 +51,5 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 
 ## Pi Hole
 - Pi Hole is showing me who is pinging back home. 
-- ![Pi Hole](./images/piHole_Ban-Ironic-Ohms.png)
+![Pi Hole](./images/piHole_Ban-Ironic-Ohms.png)
 - I dislike Adobe
