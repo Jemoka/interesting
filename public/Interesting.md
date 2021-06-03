@@ -1,5 +1,5 @@
 # Interesting
-A few people (@[jemoka](https://www.jemoka.com), @[exr0n](https://www.exr0n.com), and @rombutan thus far) started this website to stop crowding DMs with mildly-interesting-internets. Its a lovely link tree of things that we find interesting, or just random stuff on the internet.
+A few people (@[jemoka](https://www.jemoka.com), @[exr0n](http://www.exr0n.com), and @rombutan thus far) started this website to stop crowding DMs with mildly-interesting-internets. Its a lovely link tree of things that we find interesting, or just random stuff on the internet.
 
 It's like a microblog, but published in a single markdown file. Cool, right? Also, if you want, you could commit to this doc too! Just [make a PR](https://github.com/Jemoka/interesting) or [email @jemoka](mailto:hliu@shabang.cf).
 
