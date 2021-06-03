@@ -50,4 +50,6 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 - [Yes! Yes! Yes! You get a hotdog! You get a hotdog! Every! Body! Gets! A! Hotdog!](https://www.youtube.com/watch?v=Ziu2rrNS7S0)
 
 ## Pi Hole
-- Pi Hole is showing me who is pinging back home. [Pi Hole](./images/piHole_Ban-Ironic-Ohms.png)
+- Pi Hole is showing me who is pinging back home. 
+- [Pi Hole](./images/piHole_Ban-Ironic-Ohms.png)
+- I dislike Adobe
