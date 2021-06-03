@@ -24,6 +24,15 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
     * It's been _two years_
     * Like, does [this hero image](https://developer.apple.com/wwdc21/swift-student-challenge/) not creep you out? 
 
+## Hardware
+- Commercial Stuff
+    * Intel Might enable FidelityFX in Xe-HPG GPU's
+    * New 3080 Ti
+    * DDR5 ram is trickling down
+- Hobby Stuff
+    * [C64 watch lol](https://hackaday.com/2021/06/02/commodore-inspired-watch-puts-basic-on-your-wrist/)
+    * [New CM4 carrier boards every day](https://pipci.jeffgeerling.com/boards_cm)
+    * [Some guy was able to down- and up- load firmware to the airtags](https://www.youtube.com/watch?v=_E0PWQvW-14)
 
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
@@ -31,4 +40,3 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ## Places
 ### Kunming
 - [Elephants in Kunming!](https://www.scmp.com/news/china/science/article/3135331/chinese-elephant-herd-hits-road-quest-through-urban-jungle). *UPDATE:* [they got there](https://www.nbcnews.com/news/world/herd-wild-elephants-approaches-chinese-city-after-300-mile-journey-n1269293)
-
