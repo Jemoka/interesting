@@ -52,14 +52,18 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ### Paradigms and Theory
 - [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). Also dosen't look COVID safe
 
+### Soydevery
+- [Free whitespaces](https://qwerty.dev/whitespace/)
+
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
 
 ## Places
 ### Kunming
 - [Elephants in Kunming!](https://www.scmp.com/news/china/science/article/3135331/chinese-elephant-herd-hits-road-quest-through-urban-jungle). *UPDATE:* [they got there](https://www.nbcnews.com/news/world/herd-wild-elephants-approaches-chinese-city-after-300-mile-journey-n1269293)
-## Chemistry?
+## Chemistry/Biology
 - Other people may already know this but is LSD "safer" than Caffine???? This graph is either misleading or I have a misconception ![Pasted image 02.06.21-22:31:36](./images/uNWaPJfuhhTQXZKjl4NWd4MJbJRKq3.png) -- @Jemoka
+- [In Soviet Russia, Foxes lick you](https://www.youtube.com/watch?v=4dwjS_eI-lQ)
 
 ## MAFF
 
