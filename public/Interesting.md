@@ -34,7 +34,6 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
     * It's been _two years_
     * Like, does [this hero image](https://developer.apple.com/wwdc21/swift-student-challenge/) not creep you out? 
 
-<<<<<<< HEAD
 ## Hardware
 - Commercial Stuff
     * Intel Might enable FidelityFX in Xe-HPG GPU's
@@ -44,7 +43,6 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
     * [C64 watch lol](https://hackaday.com/2021/06/02/commodore-inspired-watch-puts-basic-on-your-wrist/)
     * [New CM4 carrier boards every day](https://pipci.jeffgeerling.com/boards_cm)
     * [Some guy was able to down- and up- load firmware to the airtags](https://www.youtube.com/watch?v=_E0PWQvW-14)
-=======
 ### Git?
 - Github got rid of access controls for non-orgs. Scandelous! ![Pasted image 02.06.21-22:01:36](./images/ggswdhdFpMGVnuOFcZP1VCb7FW5MmM.png)
 
@@ -59,7 +57,6 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 
 ### corporate shrilling
 - [Stack Overflow (big tech) sold out to Prosus (even bigger tech)](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)
->>>>>>> 63d26893e07f69187abb1805c3d564e5d454ef9b
 
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
@@ -67,9 +64,6 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ## Places
 ### Kunming
 - [Elephants in Kunming!](https://www.scmp.com/news/china/science/article/3135331/chinese-elephant-herd-hits-road-quest-through-urban-jungle). *UPDATE:* [they got there](https://www.nbcnews.com/news/world/herd-wild-elephants-approaches-chinese-city-after-300-mile-journey-n1269293)
-<<<<<<< HEAD
-=======
-
 ## Chemistry?
 - Other people may already know this but is LSD "safer" than Caffine???? This graph is either misleading or I have a misconception ![Pasted image 02.06.21-22:31:36](./images/uNWaPJfuhhTQXZKjl4NWd4MJbJRKq3.png) -- @Jemoka
 
@@ -86,4 +80,3 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ## Inside Jokes
 - Micah trying to figure out how markdown works ![Pasted image 02.06.21-22:41:40](./images/vPG4SgK43aCjjBqSFENggamiOKJk3N.png)
 
->>>>>>> 63d26893e07f69187abb1805c3d564e5d454ef9b
