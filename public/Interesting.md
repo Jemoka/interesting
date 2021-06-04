@@ -34,15 +34,6 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
     * It's been _two years_
     * Like, does [this hero image](https://developer.apple.com/wwdc21/swift-student-challenge/) not creep you out? 
 
-## Hardware
-- Commercial Stuff
-    * Intel Might enable FidelityFX in Xe-HPG GPU's
-    * New 3080 Ti
-    * DDR5 ram is trickling down
-- Hobby Stuff
-    * [C64 watch lol](https://hackaday.com/2021/06/02/commodore-inspired-watch-puts-basic-on-your-wrist/)
-    * [New CM4 carrier boards every day](https://pipci.jeffgeerling.com/boards_cm)
-    * [Some guy was able to down- and up- load firmware to the airtags](https://www.youtube.com/watch?v=_E0PWQvW-14)
 ### Git?
 - Github got rid of access controls for non-orgs. Scandelous! ![Pasted image 02.06.21-22:01:36](./images/ggswdhdFpMGVnuOFcZP1VCb7FW5MmM.png)
 
@@ -73,6 +64,17 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 
 - [colorizing equations](https://betterexplained.com/articles/colorized-math-equations/), especially this one about the discrete fourier transform
 [![xn2021-06-02T23:14:55-07:00](./images/xn2021-06-02T23:14:55-07:00.png)](https://github.com/Jemoka/interesting/blob/master/public/images/xn2021-06-02T23:14:55-07:00.png?raw=true)
+
+## Hardware
+### Commercial Stuff
+* Intel Might enable FidelityFX in Xe-HPG GPU's
+* New 3080 Ti
+* DDR5 ram is trickling down
+ 
+### Hobby Stuff
+* [C64 watch lol](https://hackaday.com/2021/06/02/commodore-inspired-watch-puts-basic-on-your-wrist/)
+* [New CM4 carrier boards every day](https://pipci.jeffgeerling.com/boards_cm)
+* [Some guy was able to down- and up- load firmware to the airtags](https://www.youtube.com/watch?v=_E0PWQvW-14)
 
 ## General Internets
 - [Yes! Yes! Yes! You get a hotdog! You get a hotdog! Every! Body! Gets! A! Hotdog!](https://www.youtube.com/watch?v=Ziu2rrNS7S0)
