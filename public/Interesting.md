@@ -48,6 +48,7 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 
 ### corporate shrilling
 - [Stack Overflow (big tech) sold out to Prosus (even bigger tech)](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)
+- [Internet companies in china hiring programming cheerleaders](https://www.cbc.ca/news/trending/chinese-tech-companies-hire-office-cheerleaders-to-motivate-programmers-1.3202020)
  
 ### Paradigms and Theory
 - [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). Also dosen't look COVID safe
