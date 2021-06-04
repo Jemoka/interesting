@@ -48,6 +48,9 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 
 ### corporate shrilling
 - [Stack Overflow (big tech) sold out to Prosus (even bigger tech)](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)
+ 
+### Paradigms and Theory
+- [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). Also dosen't look COVID safe
 
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
