@@ -86,6 +86,7 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 
 ## General Internets
 - [Yes! Yes! Yes! You get a hotdog! You get a hotdog! Every! Body! Gets! A! Hotdog!](https://www.youtube.com/watch?v=Ziu2rrNS7S0)
+- [WOT exactly?](https://www.youtube.com/watch?v=OuDT4d0vS6o)
 
 ## Inside Jokes
 - Micah trying to figure out how markdown works ![Pasted image 02.06.21-22:41:40](./images/vPG4SgK43aCjjBqSFENggamiOKJk3N.png)
