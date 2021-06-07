@@ -84,6 +84,11 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 * [New CM4 carrier boards every day](https://pipci.jeffgeerling.com/boards_cm)
 * [Some guy was able to down- and up- load firmware to the airtags](https://www.youtube.com/watch?v=_E0PWQvW-14)
 
+## Keyboards
+* ![image](https://user-images.githubusercontent.com/55263795/120959767-5afe8a80-c70f-11eb-8cdf-b987b94f152c.png) 
+* This keyboard is amazing. 
+
+
 ## General Internets
 - [Yes! Yes! Yes! You get a hotdog! You get a hotdog! Every! Body! Gets! A! Hotdog!](https://www.youtube.com/watch?v=Ziu2rrNS7S0)
 - [WOT exactly?](https://www.youtube.com/watch?v=OuDT4d0vS6o)
