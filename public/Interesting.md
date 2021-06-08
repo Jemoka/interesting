@@ -21,6 +21,7 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 
 ### Lisp
 - [Simple but refined, guaranteed to blow your mind. Bum, ba bum.](http://landoflisp.com/).
+- [People actuall DO use lisp!](http://pchristensen.com/blog/lisp-companies/)
 - [The only copy of On Lisp in the penninsula is a japanese translation at SFPL](https://sfpl.bibliocommons.com/item/show/3660332093) ![Pasted image 03.06.21-11:25:52](./images/eQbpuFQGZPhryrcFrSiyP4KEmhPWiM.png)
 - [Muahahahah lisp transpiles into JS](https://common-lisp.net/project/parenscript/)
 - [Apparently Lisp happened because John McCarthy gave up writing a language after writing its AST](https://qr.ae/pG2AOR)
