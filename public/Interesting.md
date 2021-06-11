@@ -71,6 +71,8 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 - [In Soviet Russia, Foxes lick you](https://www.youtube.com/watch?v=4dwjS_eI-lQ)
 
 ## MAFF
+### Inches suck
+- [Case and point](https://whydoesitsuck.com/why-does-the-imperial-system-suck/) ![Pasted image 10.06.21-18:02:27](./images/zcL7Ez0Mimjf4h5YQUJnNs4MpA6z44.png)
 
 ### cool visualizations
 
