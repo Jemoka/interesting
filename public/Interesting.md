@@ -60,6 +60,38 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ### Soydevery
 - [Free whitespaces](https://qwerty.dev/whitespace/)
 
+### Base 120
+- If my math is correct, there should be a way to count to 1440 on just your two hands. How? Lets take a trip into me thinking while biking.
+- I thinking: if we seperated your hands, you could count in base 5 (6 if you counted nothing as 1, but lets not get into that). All you would need to do is have 1 hand be the 5's place (base 5 remember) and the other be the 1's place. With that, you could count to 25, like this
+
+Left hand is the 1's place, right is the 5's
+
+0: L
+1: LL
+2: LLL
+3: LLLL
+4: LLLLL
+5: R
+6: L R
+7: LL R
+
+And so on
+
+- So that fets us to 25: where does 1440 come from? Well, if we have seperation of hands, why not seperation of fingers? If the placement of each finger is special, you can have 5! or 120 different positions your hand can be in. Here is what that looks like:
+
+Each finger will be represented as a 1 or a 0, starting from the thumb and going to the pinky
+
+(L)10110
+(R)10011
+
+This means that the left hand has the thumb up, pointer down, middle up, ring up, and pinky down. The right has the thumb up, pointer down ... you get the point
+
+With these 2 methods, you can have 1440 different numbers, allowing us to count in base 120.
+
+So there we have it.
+
+- But wait... we can learn a but more from ASL. In ASL, you can touch two fingers to signify another number... I will leave that as an excersize for the reader, but lets jut say our ancestors were short sited when it came to inventing numbers. 
+
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
 
