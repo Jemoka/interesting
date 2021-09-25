@@ -8,6 +8,9 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 - [The Iceburg of Rabitty Rabithole ness](https://suricrasia.online/iceberg/).
 - This whole thing also turned out to be an excercise in rapid-fire soydevery
 
+### Unix Tools
+- [Crontabs fear not!](https://crontab.guru)
+
 ### C++
 - [Raytracing with CMake](https://64.github.io/cmake-raytracer/)
 - [How do C++20 modules work?](https://vector-of-bool.github.io/2019/03/10/modules-1.html)
@@ -18,6 +21,8 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 
 ### Lisp
 - [Simple but refined, guaranteed to blow your mind. Bum, ba bum.](http://landoflisp.com/).
+- [People actuall DO use lisp!](http://pchristensen.com/blog/lisp-companies/)
+- [The only copy of On Lisp in the penninsula is a japanese translation at SFPL](https://sfpl.bibliocommons.com/item/show/3660332093) ![Pasted image 03.06.21-11:25:52](./images/eQbpuFQGZPhryrcFrSiyP4KEmhPWiM.png)
 - [Muahahahah lisp transpiles into JS](https://common-lisp.net/project/parenscript/)
 - [Apparently Lisp happened because John McCarthy gave up writing a language after writing its AST](https://qr.ae/pG2AOR)
 - "`defun` is where fun is taken away from you" --- Adam, 2021
@@ -45,6 +50,47 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 - Why zsh is actually better: parameter expansion
 ![xn2021-06-02T23:01:50-07:00](./images/xn2021-06-02T23:01:41-07:00.png)
 
+### corporate shrilling
+- [Stack Overflow (big tech) sold out to Prosus (even bigger tech)](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)
+- [Internet companies in china hiring programming cheerleaders](https://www.cbc.ca/news/trending/chinese-tech-companies-hire-office-cheerleaders-to-motivate-programmers-1.3202020)
+ 
+### Paradigms and Theory
+- [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). Also dosen't look COVID safe
+
+### Soydevery
+- [Free whitespaces](https://qwerty.dev/whitespace/)
+
+### Base 120
+- If my math is correct, there should be a way to count to 1440 on just your two hands. How? Lets take a trip into me thinking while biking.
+- I thinking: if we seperated your hands, you could count in base 5 (6 if you counted nothing as 1, but lets not get into that). All you would need to do is have 1 hand be the 5's place (base 5 remember) and the other be the 1's place. With that, you could count to 25, like this
+
+Left hand is the 1's place, right is the 5's
+
+0: L
+1: LL
+2: LLL
+3: LLLL
+4: LLLLL
+5: R
+6: L R
+7: LL R
+
+And so on
+
+- So that fets us to 25: where does 1440 come from? Well, if we have seperation of hands, why not seperation of fingers? If the placement of each finger is special, you can have 5! or 120 different positions your hand can be in. Here is what that looks like:
+
+Each finger will be represented as a 1 or a 0, starting from the thumb and going to the pinky
+
+(L)10110
+(R)10011
+
+This means that the left hand has the thumb up, pointer down, middle up, ring up, and pinky down. The right has the thumb up, pointer down ... you get the point
+
+With these 2 methods, you can have 1440 different numbers, allowing us to count in base 120.
+
+So there we have it.
+
+- But wait... we can learn a but more from ASL. In ASL, you can touch two fingers to signify another number... I will leave that as an excersize for the reader, but lets jut say our ancestors were short sited when it came to inventing numbers. 
 
 ## Muzak
 - [No Water in the Water fountain. **One Potato, Ten Straws, SCIENCE, in ACTION!**](https://www.youtube.com/watch?v=jbiFcPhccu8)
@@ -52,19 +98,38 @@ It's like a microblog, but published in a single markdown file. Cool, right? Als
 ## Places
 ### Kunming
 - [Elephants in Kunming!](https://www.scmp.com/news/china/science/article/3135331/chinese-elephant-herd-hits-road-quest-through-urban-jungle). *UPDATE:* [they got there](https://www.nbcnews.com/news/world/herd-wild-elephants-approaches-chinese-city-after-300-mile-journey-n1269293)
-
-## Chemistry?
+## Chemistry/Biology
 - Other people may already know this but is LSD "safer" than Caffine???? This graph is either misleading or I have a misconception ![Pasted image 02.06.21-22:31:36](./images/uNWaPJfuhhTQXZKjl4NWd4MJbJRKq3.png) -- @Jemoka
+- [In Soviet Russia, Foxes lick you](https://www.youtube.com/watch?v=4dwjS_eI-lQ)
 
 ## MAFF
+### Inches suck
+- [Case and point](https://whydoesitsuck.com/why-does-the-imperial-system-suck/) ![Pasted image 10.06.21-18:02:27](./images/zcL7Ez0Mimjf4h5YQUJnNs4MpA6z44.png)
 
 ### cool visualizations
 
 - [colorizing equations](https://betterexplained.com/articles/colorized-math-equations/), especially this one about the discrete fourier transform
 [![xn2021-06-02T23:14:55-07:00](./images/xn2021-06-02T23:14:55-07:00.png)](https://github.com/Jemoka/interesting/blob/master/public/images/xn2021-06-02T23:14:55-07:00.png?raw=true)
 
+## Hardware
+### Commercial Stuff
+* Intel Might enable FidelityFX in Xe-HPG GPU's
+* New 3080 Ti
+* DDR5 ram is trickling down
+ 
+### Hobby Stuff
+* [C64 watch lol](https://hackaday.com/2021/06/02/commodore-inspired-watch-puts-basic-on-your-wrist/)
+* [New CM4 carrier boards every day](https://pipci.jeffgeerling.com/boards_cm)
+* [Some guy was able to down- and up- load firmware to the airtags](https://www.youtube.com/watch?v=_E0PWQvW-14)
+
+## Keyboards
+* ![image](https://user-images.githubusercontent.com/55263795/120959767-5afe8a80-c70f-11eb-8cdf-b987b94f152c.png) 
+* This keyboard is amazing. 
+
+
 ## General Internets
 - [Yes! Yes! Yes! You get a hotdog! You get a hotdog! Every! Body! Gets! A! Hotdog!](https://www.youtube.com/watch?v=Ziu2rrNS7S0)
+- [WOT exactly?](https://www.youtube.com/watch?v=OuDT4d0vS6o)
 
 ## Inside Jokes
 - Micah trying to figure out how markdown works ![Pasted image 02.06.21-22:41:40](./images/vPG4SgK43aCjjBqSFENggamiOKJk3N.png)
